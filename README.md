@@ -1,5 +1,7 @@
 # React を勉強するために作成したフォルダです
 
+## 実装する順番
+
 1. Simple to-do list app
    1. todo アプリケーション
 1. Random quote generator
